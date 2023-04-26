@@ -12,8 +12,7 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 1rem;
-    background-color:#FFF0A7
+    background-color:#D1F6C1
     
 
 }
@@ -30,7 +29,7 @@ nav a:hover{
 
 
 .logo img {
-    height: 120px;
+    height: 180px;
 }
 
 ul{
